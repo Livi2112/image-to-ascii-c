@@ -6,7 +6,7 @@ Input:
 ![Imagem da Terra](Moon.jpg)
 
 Output:
-![Imagem da Terra em Ascii](AsciiMoon.jpg)
+![Imagem da Terra em Ascii](AsciiMoon.png)
 
 # Features and Thechnologies
 **Support** Works for .PNG, .JPG, .BMP
