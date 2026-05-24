@@ -16,3 +16,11 @@ Output:
 **Language** C(C99+)
 
 **Extern Lib** [stb_image.h](https://github.com/nothings/stb) (Single-header image processing library)
+
+# Compilation
+
+For Linux / MacOS:
+
+    gcc main.c -lm -o imageToAscii
+
+    ./imageToAscii FILENAME
