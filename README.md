@@ -3,10 +3,10 @@ Simple program that transforms an image to text(ascii), written in C using stb_i
 
 # Example
 Input:
-![Imagem da Terra](Moon.jpg)
+<img src="Moon.jpg" alt="Moon Image" width="500">
 
 Output:
-![Imagem da Terra em Ascii](AsciiMoon.png)
+<img src="AsciiMoon.png" alt="Moon Ascii" width="500">
 
 # Features and Thechnologies
 **Support** Works for .PNG, .JPG, .BMP
